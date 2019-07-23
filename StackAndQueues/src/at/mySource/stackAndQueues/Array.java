@@ -17,7 +17,7 @@ public class Array<E> {
         size = 0;
     }
 
-    //获取数组当前元素个数
+    //获取数组当前元素个数不不不不不
     public int getSize(){
         return size;
     }
