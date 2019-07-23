@@ -33,7 +33,7 @@ public class BinarySearchTree<E extends  Comparable<E>> {
            root =  add(root,e);
     }
 
-    //作用:向传入的节点添加内容为e的新节点
+    //作用:向传入的节点添加内容为e的新节点AAAAAAAAAAAAAAAAAAA
     private Node add(Node node,E e){
         //判断作用:当传入的节点为空时,即此时已经遍历到了树的叶子节点的子树,
         // 只需要将当前节点编程新创建的节点即可,也就是为之前的叶子节点添加了子树
